@@ -1,0 +1,14 @@
+C:\Users\ventas\source\repos\Condiciones\Condiciones\obj\Debug\net10.0\Condiciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ventas\source\repos\Condiciones\Condiciones\obj\Debug\net10.0\Condiciones.AssemblyInfoInputs.cache
+C:\Users\ventas\source\repos\Condiciones\Condiciones\obj\Debug\net10.0\Condiciones.AssemblyInfo.cs
+C:\Users\ventas\source\repos\Condiciones\Condiciones\obj\Debug\net10.0\Condiciones.csproj.CoreCompileInputs.cache
+C:\Users\ventas\source\repos\Condiciones\Condiciones\bin\Debug\net10.0\Condiciones.exe
+C:\Users\ventas\source\repos\Condiciones\Condiciones\bin\Debug\net10.0\Condiciones.deps.json
+C:\Users\ventas\source\repos\Condiciones\Condiciones\bin\Debug\net10.0\Condiciones.runtimeconfig.json
+C:\Users\ventas\source\repos\Condiciones\Condiciones\bin\Debug\net10.0\Condiciones.dll
+C:\Users\ventas\source\repos\Condiciones\Condiciones\bin\Debug\net10.0\Condiciones.pdb
+C:\Users\ventas\source\repos\Condiciones\Condiciones\obj\Debug\net10.0\Condiciones.dll
+C:\Users\ventas\source\repos\Condiciones\Condiciones\obj\Debug\net10.0\refint\Condiciones.dll
+C:\Users\ventas\source\repos\Condiciones\Condiciones\obj\Debug\net10.0\Condiciones.pdb
+C:\Users\ventas\source\repos\Condiciones\Condiciones\obj\Debug\net10.0\Condiciones.genruntimeconfig.cache
+C:\Users\ventas\source\repos\Condiciones\Condiciones\obj\Debug\net10.0\ref\Condiciones.dll
